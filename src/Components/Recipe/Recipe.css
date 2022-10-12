@@ -1,0 +1,33 @@
+.Recipe{
+    text-align: left;
+    margin-left: 400px;
+    width: 600px;
+}
+body{
+    font-size: 17px;
+}
+.Name{
+    font-size: 20px;
+    font-weight: bold;
+}
+hr{
+    height:3px;
+    border-width:0;
+    margin-left: -398px;
+    background-color: black;
+}
+.pic{
+    width:600px;
+}
+.ceasar{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left:190px;
+}
+.left{
+    margin-left: 16px;
+    display: flex;
+}
+h1{
+    text-align: center;
+}
